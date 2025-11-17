@@ -21,3 +21,12 @@ env/
 .DS_Store
 Thumbs.db
 .vscode/
+
+GEMINI_API_KEY='AIzaSyCcFPdtq7Lz_WSsoc5QZuC0PnrVzdJEpbI'
+SMTP_HOST = "smtp.gmail.com"
+SMTP_PORT = "587"
+SMTP_USER = "pentlavallir@gmail.com"
+SMTP_PASSWORD = "Spl@1980"
+
+SMS_API_KEY = "your_sms_provider_api_key"
+SMS_SENDER = "+1XXXXXXXXXX"
